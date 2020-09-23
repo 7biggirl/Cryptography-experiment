@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1577071768 source:c:\users\dell\desktop\密码学\实验7 dsa\code\dsa\dsa2\sha256.cpp
+	"SHA256.h"
+
+1577071840 c:\users\dell\desktop\密码学\实验7 dsa\code\dsa\dsa2\sha256.h
+	<iostream>
+
+1577072963 source:c:\users\dell\desktop\密码学\实验7 dsa\code\dsa\dsa2\test.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<gmp.h>
+	<gmpxx.h>
+	<time.h>
+	<sstream>
+	"SHA256.h"
+
+1577071768 source:c:\users\dell\desktop\17341125_蒙亚愿_实验7dsa\dsa_code\sha256.cpp
+	"SHA256.h"
+
+1577071840 c:\users\dell\desktop\17341125_蒙亚愿_实验7dsa\dsa_code\sha256.h
+	<iostream>
+
+1577082617 source:c:\users\dell\desktop\17341125_蒙亚愿_实验7dsa\dsa_code\test.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<gmp.h>
+	<gmpxx.h>
+	<time.h>
+	<sstream>
+	"SHA256.h"
+
